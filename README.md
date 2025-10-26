@@ -117,7 +117,7 @@ This library is inspired by [OpenLane](https://github.com/OpenDriveLab/PersForme
 
 
 ## Citation
-If you find LATR is useful for your research, please consider citing the paper:
+If you find MRDALane is useful for your research, please consider citing the paper:
 
 ```tex
 @article{ning2025multi,
